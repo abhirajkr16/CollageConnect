@@ -142,9 +142,4 @@ server/
 - Mongoose models define shape, validations, and relationships.
 - Controllers perform create/read/update/delete actions on those models.
 
-## 6) Interview Explanation (Simple Script)
 
-"I built a MERN-based College Networking Platform with JWT auth and protected APIs.  
-On the backend, I used Express with modular controllers/routes, Mongoose for schemas, bcrypt for secure password hashing, and JWT middleware for authorization.  
-On the frontend, I used React functional components, hooks, Context API for auth state, and Axios interceptors for token-based API communication.  
-The app supports profile editing, post feed interactions, and follow/unfollow features, while keeping a clean and scalable folder structure."

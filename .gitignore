@@ -1,7 +1,16 @@
+# dependencies
 node_modules/
-server/node_modules/
-client/node_modules/
+
+# environment files
 .env
-.env.local
-*.log
+.env.*
+
+# build output
+dist/
 build/
+
+# vscode
+.vscode/
+
+# logs
+npm-debug.log*
